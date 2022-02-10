@@ -1,0 +1,4 @@
+com/interviewzenTeste/pages/InterviewzenTestePage.class
+com/interviewzenTeste/controllers/InterviewzenTesteCtrl.class
+com/interviewzenTeste/steps/InterviewzenTesteSteps.class
+com/interviewzenTeste/suite/InterviewzenTest.class
